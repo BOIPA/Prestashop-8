@@ -6,13 +6,13 @@ Payments.
 
 System requirements:
 * PHP8.0 or greater, refer to https://www.php.net/downloads.php 
-*	Download PrestaShop 8from https://www.prestashop.com/en/previous-versions and install it
+*	Download PrestaShop 8 from https://www.prestashop.com/en/previous-versions and install it
 * 	MySQL 5.6 or greater (or MariaDB 10 or greater)
 * 	boipa Payments Merchant ID / password
 * 	boipa Payments plugin distribution package: download the code as a zip file, unzip it, create a new folder called "boipa", copy the extracted files to the boipa folder and zip it to create "boipa.zip".
 
 Before we dive into installation part, we have the below assumptions:
-* You have installed PHP and PrestaShop 8properly
+* You have installed PHP and PrestaShop 8 properly
 * You have PrestaShop 8 administrator login details
 
 Notes: 
